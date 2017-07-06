@@ -1,0 +1,130 @@
+header{
+	height: 100vh;
+	background-image : url(assets/header3.jpg) ;
+	width: 100%;
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: center center;
+	
+}
+
+
+.landing{
+	
+	margin-top: 60px;
+	;
+
+}
+
+.social{
+	margin-top: 100px;
+}
+
+h1{
+
+	font-family: oswald;
+	color:#9E9E9E;
+	font-size: 125px;
+
+	}
+
+
+
+h3{
+	color: #039BE5;
+	font-family:dosis;
+	font-size: 48px;
+	font-weight: 800;
+}
+
+.h1text{
+	margin-top;
+	width: 100%;
+}
+
+
+
+@/* ---------------------------------------------------------------------- */
+/*  From Medium Devices Up To Larger Devices
+ /* ---------------------------------------------------------------------- */
+@media (min-width: 980px) and (max-width: 1199px) {
+	
+.logo{
+	margin-top: 20px;
+	
+}
+}
+/* ---------------------------------------------------------------------- */
+/*  Only larger Devices
+ /* ---------------------------------------------------------------------- */
+@media (min-width: 1200px) {
+
+
+}
+
+/* ---------------------------------------------------------------------- */
+/*  From Small Devices Up To Medium Devices
+ /* ---------------------------------------------------------------------- */
+@media (min-width: 768px) and (max-width: 979px) {
+
+	.logo{
+	margin-top: 20px;
+
+	
+}
+
+header{
+		height: auto;
+	}
+
+}
+/* ---------------------------------------------------------------------- */
+/*  Extra Small Devices Only
+/* ---------------------------------------------------------------------- */
+@media (max-width: 767px) {
+	h1{
+		font-size: 70px;
+
+	}
+
+	h3{
+		font-size: 36px;
+	}
+
+	header{
+		height: auto;
+	}
+}
+/* ---------------------------------------------------------------------- */
+/*  Extra Small Devices Only
+/* ---------------------------------------------------------------------- */
+@media (max-width: 480px) {
+
+		h1{
+		font-size: 70px;
+
+	}
+	h3{
+		font-size: 36px;
+	}
+
+	header{
+		height: auto;
+	}
+}
+/* ---------------------------------------------------------------------- */
+/*  Up To Medium Devices
+/* ---------------------------------------------------------------------- */
+@media (max-width: 979px) {
+    /***
+     general body settings
+     ***/
+
+
+}
+/* ---------------------------------------------------------------------- */
+/*  Up To Medium Devices
+/* ---------------------------------------------------------------------- */
+@media (min-width: 768px) {
+
+} 
