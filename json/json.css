@@ -1,0 +1,62 @@
+@import url('https://fonts.googleapis.com/css?family=Passion+One|Permanent+Marker|Roboto+Slab');
+
+.main {
+
+	font-family: Roboto Slab;
+	font-size: 36px;
+	min-height: 300px;
+
+}
+
+.extras{
+	background-color: red;
+	margin-top:80px;
+
+}
+
+.row{
+	width:80%;
+	margin: 25px auto;
+
+
+}
+
+#text, #author{
+	padding:20px;  
+}
+
+#author{
+	font-family: Permanent Marker;
+	font-size: 24px;
+}
+
+
+
+body{
+	background-color: yellow;
+	font-family: Passion One;
+	margin-top:50px;
+}
+
+h1{
+	text-align: center;
+
+}
+
+#getquote{
+	border: none;
+	background: black;
+	color: white;
+	margin-top: 25px;
+	width: 200px;
+	height: 50px;
+}
+
+footer {
+   position:fixed;
+   left:0px;
+   bottom:0px;
+   line-height: 30px;
+   height:30px;
+   width:100%;
+   }
